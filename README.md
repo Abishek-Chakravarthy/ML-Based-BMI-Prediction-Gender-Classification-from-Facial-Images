@@ -96,6 +96,3 @@ Facial images (front and side) are processed to extract high-level features usin
 
 ---
 
-## 📬 Contact
-
-For any queries, reach out to the team members listed above.
