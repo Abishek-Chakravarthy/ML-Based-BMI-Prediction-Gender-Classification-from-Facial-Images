@@ -2,14 +2,8 @@
 
 This project aims to classify gender and predict Body Mass Index (BMI) from facial images using deep learning techniques and regression models. It involves preprocessing facial images, extracting features using pre-trained CNNs (VGG16 and FaceNet), and applying machine learning models for prediction.
 
-## 👥 Team Members
-- Ajmal (CS22B2046)
-- Ashiq Irfan (CS22B2021)
-- Abhishek Chakravarthy (CS22B2054)
-
-## 📅 Submission Date
-December 5, 2024
-
+## 👥 Author
+- Abishek Chakravarthy (CS22B2054)
 ---
 
 ## 📌 Project Overview
@@ -99,10 +93,6 @@ Facial images (front and side) are processed to extract high-level features usin
 - Scikit-learn
 - Matplotlib
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
